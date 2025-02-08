@@ -1,3 +1,7 @@
+# Bitcoin UX for the Streets
+
+![Bitcoin UX for the Streets](/public/bitcoin-ux-streets.jpg)
+
 This is a sample site for Bitcoin UX for the Streets.
 
 ## Resources
